@@ -34,7 +34,7 @@ Game Depictions of Some Parts:
     + Spread disease according to specific rules
     + Check if an outbreak occurs and resolve it
     + Check for lose conditions
-    + 
+     
 Database Implementation:
   - Map database:
     + Information on 48 locations (fixed)
