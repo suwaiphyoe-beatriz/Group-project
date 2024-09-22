@@ -1,5 +1,7 @@
 Pandemic Game
 
+(Group members- Ha Hung Thinh, Lu Liu, Su Wai Phyoe, Megha Kumari)
+
 Background
   - Four severe viruses have spread across the world. Two players act as disease specialists whose mission is to treat hotspots while researching final vaccines before the situation gets out of control.
     
