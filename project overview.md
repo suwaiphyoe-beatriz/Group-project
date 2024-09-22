@@ -6,13 +6,15 @@ Four severe viruses have spread across the world. Two players act as disease spe
 Game objectives:
 
 Two players must work together to research the cure for all four viruses. Control the situation by traveling to hotspots and temporarily treating the disease.
+
 Players will lose if 8 outbreaks occur (8 epidemic cards are drawn), the disease spreads too much (not enough disease markers to place on the map), or if time runs out (not enough player cards to draw).
+
 Player will win immediately after discover four cures
 Game Flow:
 
-Game setup
-Player 1 takes a turn
-Computer spreads disease
+*Game setup
+*Player 1 takes a turn
+*Computer spreads disease
 Player 2 takes a turn
 Computer spreads disease
 Repeat this cycle
